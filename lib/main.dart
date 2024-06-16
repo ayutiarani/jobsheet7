@@ -54,7 +54,7 @@ class TeksUtama extends StatefulWidget {
 
 class StateTeksUtama extends State<TeksUtama> {
   var listNama = [
-    'Rizma', 'Andi', 'Sari', 'Rudi',
+    'Ayu', 'Andi', 'Sari', 'Rudi',
     'Nurul', 'Huda', 'Lendis', 'Fabri'
   ];
 
